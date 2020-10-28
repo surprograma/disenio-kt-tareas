@@ -21,7 +21,10 @@ El costo de una tarea es el **costo de la infraestructura** necesaria para lleva
 Esto mismo, en pseudocódigo, sería así:
 
 ```
-Costo de Tarea = (Horas Estimadas / Nro. de Empleados) * Sueldo por hora de Cada Empleado + Horas Estimadas * Sueldo del Responsable + costo de infraestructura
+Costo de Tarea = 
+  (Horas Estimadas / Nro. de Empleados) * Sueldo por hora de Cada Empleado + 
+  Horas Estimadas * Sueldo del Responsable + 
+  costo de infraestructura
 ```
 
 ## Requerimientos
