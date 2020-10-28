@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.ejemplo
+package ar.edu.unahur.obj2.tareas
 
 import io.kotest.core.config.AbstractProjectConfig
 import io.kotest.core.spec.IsolationMode
