@@ -22,9 +22,11 @@ Esto mismo, en pseudocódigo, sería así:
 
 ```
 Costo de Tarea = 
-  (Horas Estimadas / Nro. de Empleados) * Sueldo por hora de Cada Empleado + 
-  Horas Estimadas * Sueldo del Responsable + 
-  costo de infraestructura
+  Sumatoria de (Horas de trabajo de cada empleado * Sueldo por hora de cada empleado)
+  + Horas estimadas * Sueldo del responsable 
+  + Costo de infraestructura
+  
+Horas de trabajo de cada empleado = Horas estimadas / Cantidad de empleados
 ```
 
 ## Requerimientos
