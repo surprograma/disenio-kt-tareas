@@ -14,6 +14,8 @@ En otras palabras: trabajen completando cada requerimiento antes de pasar al sig
 
 Una consultora de software necesita implementar un sistema para hacer el seguimiento del desarrollo de tareas. A estas tareas las clasificaremos en dos tipos distintos: **simples** y **de integración**.
 
+### Tareas simples
+
 Cada tarea simple tiene una cantidad de **horas estimadas** para ser terminada, un **responsable** y algunos **empleados** asignados. De cada empleado se conoce **cuánto cobra por hora** trabajada. Las **horas necesarias** para finalizar una tarea son las horas estimadas que requiere divido la cantidad de empleados que tiene asignados (sin contar al responsable de la misma, que no aporta nada para reducir este número).
 
 El costo de una tarea simple es el **costo de la infraestructura** necesaria para llevarla a cabo (que se configura para cada tarea) más los salarios que les corresponden a cada uno de los empleados asignados por cada hora que tuvieron que trabajar. Al responsable se le paga la totalidad de las horas estimadas de la tarea.
@@ -29,7 +31,9 @@ Costo de Tarea Simple =
 Horas de trabajo de cada empleado = Horas estimadas / Cantidad de empleados
 ```
 
-Existen además otras tareas, que las llamaremos **tareas de integración**, que consisten en coordinar otras tareas. Estas tareas de integración no tienen un costo propio por infraestructura, ni empleados directamente a cargo, aunque sí tienen un responsable.
+### Tareas de integración
+
+Este tipo de tareas consisten en coordinar otras tareas. Las tareas de integración no tienen un costo propio por infraestructura, ni empleados directamente a cargo, aunque sí tienen un responsable.
 
 Las **horas necesarias** para realizarla se calculan como la suma de lo que tardan sus subtareas, más una hora para reuniones de planificación por cada 8 horas de trabajo. Se considera que su **costo** es la suma de los costos de sus subtareas más un bonus que se le paga al responsable, equivalente al 3% de esa suma. Para la **nómina de empleados**, se debe incluir a las nóminas de las subtareas más al responsable de la tarea de integración.
 
