@@ -2,7 +2,7 @@
 
 ![Portada](assets/portada.jpg)
 
-## Antes de empezar: algunos consejos
+## :point_up: Antes de empezar: algunos consejos
 
 El enunciado tiene **mucha** información, van a necesitar leerlo varias veces. La sugerencia es que lo lean entero una vez (para tener una idea general) y luego vuelvan a consultarlo las veces que hagan falta.
 
@@ -10,7 +10,7 @@ Concentrensé en los requerimientos y, excepto que se traben mucho, respeten el 
 
 En otras palabras: trabajen completando cada requerimiento antes de pasar al siguiente, con los tests que aseguran que funciona incluidos. Si al avanzar en los requerimientos les parece necesario refactorizar, adelante, van a tener los tests que garantizan que no rompieron nada. :smirk: 
 
-## Descripción del dominio
+## :bookmark_tabs: Descripción del dominio
 
 Una consultora de software necesita implementar un sistema para hacer el seguimiento del desarrollo de tareas. A estas tareas las clasificaremos en dos tipos distintos: **simples** y **de integración**.
 
@@ -39,7 +39,7 @@ Las **horas necesarias** para realizarla se calculan como la suma de las horas n
 
 El sistema debe poder soportar que una tarea de integración tenga como subtarea tanto a tareas simples como a tareas de integración.
 
-## Requerimientos
+## :heavy_check_mark: Requerimientos
 
 Se pide resolver los siguientes requerimientos **sin** utilizar casteos ni chequeos de tipo (o sea, no vale usar `as` ni `is`). 
 
@@ -48,7 +48,7 @@ Se pide resolver los siguientes requerimientos **sin** utilizar casteos ni chequ
 1. Obtener el costo de una tarea.
 1. Incorporar al modelo las tareas de integración.
 
-## Licencia
+## :fountain_pen: Licencia
 
 Esta obra fue elaborada por [Federico Aloi](https://github.com/faloi) y publicada bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
