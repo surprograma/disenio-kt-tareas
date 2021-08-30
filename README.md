@@ -55,7 +55,7 @@ Se pide resolver los siguientes requerimientos **sin** utilizar casteos ni chequ
 1. Saber cuántas horas se necesitan para finalizar una tarea.
 1. Obtener el costo de una tarea.
 1. Incorporar al modelo las tareas de integración.
-1. Saber si un proyecto determiando está atrasado.
+1. Saber si un proyecto está atrasado.
 
 ## :fountain_pen: Licencia
 
