@@ -16,26 +16,26 @@ Una consultora de software necesita implementar un sistema para hacer el seguimi
 
 ### Tareas simples
 
-Cada tarea simple tiene una cantidad de **horas estimadas** para ser terminada, algunos **empleados** asignados y un **responsable** - que no es más que un empleado que asume ese rol particular para esa tarea (podría ocurrir perfectamente que sea empleado en otra tarea). De cada empleado se conoce **cuánto cobra por hora** trabajada. Las **horas necesarias** para finalizar una tarea son las horas estimadas que requiere divido la cantidad de empleados que tiene asignados (sin contar al responsable de la misma, que no aporta nada para reducir este número).
+Cada tarea simple tiene una cantidad de **horas estimadas** para ser terminada, algunos **trabajadores** asignados y un **responsable** - que no es más que un trabajador que asume ese rol particular para esa tarea (podría ocurrir perfectamente que sea trabajador en otra tarea). De cada trabajador se conoce **cuánto cobra por hora** trabajada. Las **horas necesarias** para finalizar una tarea son las horas estimadas que requiere divido la cantidad de trabajadores que tiene asignados (sin contar al responsable de la misma, que no aporta nada para reducir este número).
 
-El costo de una tarea simple es el **costo de la infraestructura** necesaria para llevarla a cabo (que se configura para cada tarea) más los salarios que les corresponden a cada uno de los empleados asignados por cada hora que tuvieron que trabajar. Al responsable se le paga la totalidad de las horas estimadas de la tarea.
+El costo de una tarea simple es el **costo de la infraestructura** necesaria para llevarla a cabo (que se configura para cada tarea) más los salarios que les corresponden a cada uno de los trabajadores asignados por cada hora que tuvieron que trabajar. Al responsable se le paga la totalidad de las horas estimadas de la tarea.
 
 Esto mismo, en pseudocódigo, sería así:
 
 ```
 Costo de Tarea Simple = 
-  Sumatoria de (Horas de trabajo de cada empleado * Sueldo por hora de cada empleado)
+  Sumatoria de (Horas de trabajo de cada trabajador * Sueldo por hora de cada trabajador)
   + Horas estimadas * Sueldo del responsable 
   + Costo de infraestructura
   
-Horas de trabajo de cada empleado = Horas estimadas / Cantidad de empleados
+Horas de trabajo de cada trabajador = Horas estimadas / Cantidad de trabajadores
 ```
 
 ### Tareas de integración
 
-Este tipo de tareas consisten en coordinar otras tareas. Las tareas de integración no tienen un costo propio por infraestructura, ni empleados directamente a cargo, aunque sí tienen un responsable.
+Este tipo de tareas consisten en coordinar otras tareas. Las tareas de integración no tienen un costo propio por infraestructura, ni trabajadores directamente a cargo, aunque sí tienen un responsable.
 
-Las **horas necesarias** para realizarla se calculan como la suma de las horas necesarias para cumplir sus subtareas, más una hora para reuniones de planificación por cada 8 horas de trabajo. Se considera que su **costo** es la suma de los costos de sus subtareas más un bonus que se le paga al responsable, equivalente al 3% de esa suma. Para la **nómina de empleados**, se debe incluir a las nóminas de las subtareas más al responsable de la tarea de integración.
+Las **horas necesarias** para realizarla se calculan como la suma de las horas necesarias para cumplir sus subtareas, más una hora para reuniones de planificación por cada 8 horas de trabajo. Se considera que su **costo** es la suma de los costos de sus subtareas más un bonus que se le paga al responsable, equivalente al 3% de esa suma. Para la **nómina de trabajadores**, se debe incluir a las nóminas de las subtareas más al responsable de la tarea de integración.
 
 El sistema debe poder soportar que una tarea de integración tenga como subtarea tanto a tareas simples como a tareas de integración.
 
@@ -47,13 +47,13 @@ Por el momento hay un solo requerimiento asociado al proyecto: saber si está at
 
 Los días estimados para finalizar se calculan de la siguiente forma: `sumatoria de horas necesarias de las tareas / 8 (que es lo que dura cada jornada laboral)`. Todos los datos necesarios salen de las tareas que el proyecto tenga.
 
-:eyes: **Ojo:** para no complicar la cuenta, vamos a asumir que cada empleado solo trabaja en una tarea a la vez.
+:eyes: **Ojo:** para no complicar la cuenta, vamos a asumir que cada trabajador solo trabaja en una tarea a la vez.
 
 ## :heavy_check_mark: Requerimientos
 
 Se pide resolver los siguientes requerimientos **sin** utilizar casteos ni chequeos de tipo (o sea, no vale usar `as` ni `is`). 
 
-1. Poder consultar la nómina de empleados de una tarea (una lista), conformada por sus empleados y su responsable. 
+1. Poder consultar la nómina de trabajadores de una tarea (una lista), conformada por sus trabajadores y su responsable. 
 1. Saber cuántas horas se necesitan para finalizar una tarea.
 1. Obtener el costo de una tarea.
 1. Incorporar al modelo las tareas de integración.
