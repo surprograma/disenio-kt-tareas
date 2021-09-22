@@ -45,9 +45,9 @@ Los proyectos son, ni más ni menos, una sucesión de tareas (simples o de integ
 
 Por el momento hay un solo requerimiento asociado al proyecto: saber si está atrasado. Para esto, hay que calcular los **días estimados para finalizar** y sumárselos a la fecha de inicio. Si la fecha que resulta es, como máximo, el día siguiente a la fecha deseada, diremos que no está atrasado.
 
-Los días estimados para finalizar se calculan de la siguiente forma: `sumatoria de horas de las tareas / cantidad de empleados / 8 (que es lo que dura cada jornada laboral)`. Todos los datos necesarios salen de las tareas que el proyecto tenga. 
+Los días estimados para finalizar se calculan de la siguiente forma: `sumatoria de horas necesarias de las tareas / 8 (que es lo que dura cada jornada laboral)`. Todos los datos necesarios salen de las tareas que el proyecto tenga.
 
-:eyes: **Ojo:** una misma persona puede estar asignada a varias tareas, hay que tener esto en cuenta para que no aparezca dos veces en la cuenta.
+:eyes: **Ojo:** para no complicar la cuenta, vamos a asumir que cada empleado solo trabaja en una tarea a la vez.
 
 ## :heavy_check_mark: Requerimientos
 
