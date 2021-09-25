@@ -31,6 +31,8 @@ Costo de Tarea Simple =
 Horas de trabajo de cada trabajador = Horas estimadas / Cantidad de trabajadores
 ```
 
+Por último, a una tarea simple podemos pedirle su **nómina de trabajadores**: una lista conformada por todos sus trabajadores, incluyendo al responsable.
+
 ### Tareas de integración
 
 Este tipo de tareas consisten en coordinar otras tareas. Las tareas de integración no tienen un costo propio por infraestructura, ni trabajadores directamente a cargo, aunque sí tienen un responsable.
@@ -55,9 +57,9 @@ Los días estimados para finalizar se calculan de la siguiente forma: `sumatoria
 
 Se pide resolver los siguientes requerimientos **sin** utilizar casteos ni chequeos de tipo (o sea, no vale usar `as` ni `is`).
 
-1. Poder consultar la nómina de trabajadores de una tarea (una lista), conformada por sus trabajadores y su responsable.
-1. Saber cuántas horas se necesitan para finalizar una tarea.
-1. Obtener el costo de una tarea.
+1. Poder consultar la nómina de trabajadores de una tarea simple.
+1. Saber cuántas horas se necesitan para finalizar una tarea simple.
+1. Obtener el costo de una tarea simple.
 1. Incorporar al modelo las tareas de integración.
 1. Saber si un proyecto está atrasado.
 
