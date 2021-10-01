@@ -27,7 +27,7 @@ data class TrabajadorJson(
   val arancel: Int
 )
 
-object Api {
+object TareasApi {
   fun importarProyecto(nombre: String): ProyectoJson {
     val json = javaClass.getResourceAsStream ("${nombre}.json")
       ?: error("No se encontró un archivo para `${nombre}`. ¿Habrás escrito mal el nombre?")
