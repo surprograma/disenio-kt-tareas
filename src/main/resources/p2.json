@@ -1,0 +1,741 @@
+{
+    "titulo": "Abad-Increpacin-Cenaoscuras",
+    "inicio": "2022-05-05T19:10:57.523Z",
+    "fin_deseado": "2022-10-03T11:40:37.088Z",
+    "tareas": [
+        {
+            "simple": true,
+            "trabajadores": [
+                {
+                    "nombre": "Hugh Rael",
+                    "arancel": 1780
+                },
+                {
+                    "nombre": "Leigh Mascareñas",
+                    "arancel": 1803
+                },
+                {
+                    "nombre": "Sr. Amber Jurado",
+                    "arancel": 3452
+                },
+                {
+                    "nombre": "Ella Pabón",
+                    "arancel": 747
+                },
+                {
+                    "nombre": "Miguel Villarreal",
+                    "arancel": 880
+                },
+                {
+                    "nombre": "Kirk Matías",
+                    "arancel": 2374
+                },
+                {
+                    "nombre": "Joan Narváez",
+                    "arancel": 729
+                },
+                {
+                    "nombre": "Wesley Corrales Jr.",
+                    "arancel": 724
+                },
+                {
+                    "nombre": "Melanie Huixtlacatl Jr.",
+                    "arancel": 2441
+                }
+            ],
+            "responsable": {
+                "nombre": "Willard Tafoya",
+                "arancel": 1471
+            },
+            "horas": 11,
+            "infra": 1346.01,
+            "descripcion": "Descentrado Ficción Descentrado."
+        },
+        {
+            "simple": false,
+            "tareas": [
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Olivia Urbina",
+                            "arancel": 1549
+                        },
+                        {
+                            "nombre": "Elsie Quevedo",
+                            "arancel": 763
+                        },
+                        {
+                            "nombre": "Leroy Ledesma",
+                            "arancel": 3581
+                        },
+                        {
+                            "nombre": "Floyd Vargas",
+                            "arancel": 844
+                        },
+                        {
+                            "nombre": "Gwen Salazar",
+                            "arancel": 2611
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Tyler Sandoval III",
+                        "arancel": 2777
+                    },
+                    "horas": 17,
+                    "infra": 4257.57,
+                    "descripcion": "Generalísimo Batallón Batallar Cenata Cencero."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Nicolas Cornejo",
+                            "arancel": 1312
+                        },
+                        {
+                            "nombre": "Sylvester Reynoso",
+                            "arancel": 2957
+                        },
+                        {
+                            "nombre": "Margarita Sánchez",
+                            "arancel": 3665
+                        },
+                        {
+                            "nombre": "Sta. Bernard Maya",
+                            "arancel": 2456
+                        },
+                        {
+                            "nombre": "Woodrow Sanabria",
+                            "arancel": 718
+                        },
+                        {
+                            "nombre": "Bonnie Delatorre",
+                            "arancel": 1088
+                        },
+                        {
+                            "nombre": "Marian Vega",
+                            "arancel": 3719
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Kim Rosas",
+                        "arancel": 3437
+                    },
+                    "horas": 16,
+                    "infra": 3343.82,
+                    "descripcion": "Engastador Gemoso Cendolilla Cenestesia Gemólogo Abajar Incorporal."
+                },
+                {
+                    "simple": false,
+                    "tareas": [
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Laurence Velázquez",
+                                    "arancel": 2409
+                                },
+                                {
+                                    "nombre": "Ada Zayas",
+                                    "arancel": 3152
+                                },
+                                {
+                                    "nombre": "Thomas Regalado",
+                                    "arancel": 2051
+                                },
+                                {
+                                    "nombre": "Ignacio Feliciano",
+                                    "arancel": 3294
+                                },
+                                {
+                                    "nombre": "Jenny Anguiano",
+                                    "arancel": 2532
+                                },
+                                {
+                                    "nombre": "Amber León DVM",
+                                    "arancel": 2461
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Ethel Espinosa",
+                                "arancel": 2498
+                            },
+                            "horas": 8,
+                            "infra": 3908.79,
+                            "descripcion": "Descerezar Geminado Descerebrar Increíble Descifrador Cenagoso Gemología Abalada Abadiato Fidelidad."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Leigh Quiñónez",
+                                    "arancel": 3486
+                                },
+                                {
+                                    "nombre": "Daryl Becerra",
+                                    "arancel": 956
+                                },
+                                {
+                                    "nombre": "Melissa Niño",
+                                    "arancel": 1586
+                                },
+                                {
+                                    "nombre": "Janet Kuzmina",
+                                    "arancel": 2995
+                                },
+                                {
+                                    "nombre": "Irma Kanzaki",
+                                    "arancel": 2988
+                                },
+                                {
+                                    "nombre": "Sidney Ferrer",
+                                    "arancel": 2717
+                                },
+                                {
+                                    "nombre": "Ann Menéndez",
+                                    "arancel": 2756
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Cecil Solís",
+                                "arancel": 2819
+                            },
+                            "horas": 9,
+                            "infra": 3738.85,
+                            "descripcion": "Abaco Ficticio Batanear Incorruptible Descerco Fichaje Abadiado Cenaoscuras Abadesa."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Lucia Bahena",
+                                    "arancel": 1699
+                                },
+                                {
+                                    "nombre": "Terri Posada",
+                                    "arancel": 1308
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Lindsey Amaya",
+                                "arancel": 3078
+                            },
+                            "horas": 15,
+                            "infra": 3218.81,
+                            "descripcion": "Batanear Fichaje Gemiquear Descenso Fideicomisario Fice Engarzar Batallaroso Deschapar Gemiquear."
+                        },
+                        {
+                            "simple": false,
+                            "tareas": [
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "George Zambrana",
+                                            "arancel": 1022
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Pearl Loya",
+                                        "arancel": 1296
+                                    },
+                                    "horas": 5,
+                                    "infra": 935.14,
+                                    "descripcion": "Cencerrada Engargantadura Abacalero Descenso Incorregibilidad Incruento Genealogista."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Kari Ballesteros",
+                                            "arancel": 3595
+                                        },
+                                        {
+                                            "nombre": "Sr. Edmond Salazar",
+                                            "arancel": 3937
+                                        },
+                                        {
+                                            "nombre": "Rogelio Ledesma",
+                                            "arancel": 1114
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Lynn Armijo DVM",
+                                        "arancel": 2763
+                                    },
+                                    "horas": 11,
+                                    "infra": 4497.53,
+                                    "descripcion": "Abalaustrado Incorporalmente Gemiqueo Cencha Bataola Increíblemente Increpación."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Arturo Vanegas",
+                                            "arancel": 1060
+                                        },
+                                        {
+                                            "nombre": "Marco Roybal DVM",
+                                            "arancel": 747
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Byron Munguía",
+                                        "arancel": 687
+                                    },
+                                    "horas": 14,
+                                    "infra": 2731.78,
+                                    "descripcion": "Bátavo Abadernar Engarce Fidelísimo."
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Marsha Zambrana",
+                                "arancel": 1545
+                            }
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Lindsey Cano",
+                        "arancel": 588
+                    }
+                },
+                {
+                    "simple": false,
+                    "tareas": [
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Sra. Susie Enríquez",
+                                    "arancel": 1071
+                                },
+                                {
+                                    "nombre": "Jackie González",
+                                    "arancel": 1254
+                                },
+                                {
+                                    "nombre": "Deanna Rincón I",
+                                    "arancel": 1795
+                                },
+                                {
+                                    "nombre": "Israel Cintrón",
+                                    "arancel": 1366
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Janet Benítez",
+                                "arancel": 2275
+                            },
+                            "horas": 11,
+                            "infra": 2054.93,
+                            "descripcion": "Batán Gemología Incorporo Generable Engarrar Cencerril Abajadero Abaldonadamente."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Alma Solís",
+                                    "arancel": 1557
+                                },
+                                {
+                                    "nombre": "Claudia Bonilla",
+                                    "arancel": 2660
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Janice Xana",
+                                "arancel": 1854
+                            },
+                            "horas": 6,
+                            "infra": 3449.25,
+                            "descripcion": "Incorruptamente Incorporo Incorrupto Abalaustrado Abalada Generalidad Incorporo Fidelidad Bastonear."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Laura Irizarry",
+                                    "arancel": 965
+                                },
+                                {
+                                    "nombre": "Emma Ochoa",
+                                    "arancel": 2974
+                                },
+                                {
+                                    "nombre": "Benjamin Mares",
+                                    "arancel": 1282
+                                },
+                                {
+                                    "nombre": "Paulette Montenegro",
+                                    "arancel": 3282
+                                },
+                                {
+                                    "nombre": "Dewey Quintanilla",
+                                    "arancel": 3729
+                                },
+                                {
+                                    "nombre": "Lucia Muñiz",
+                                    "arancel": 1258
+                                },
+                                {
+                                    "nombre": "Frank Escamilla",
+                                    "arancel": 3331
+                                },
+                                {
+                                    "nombre": "Lance Zambrano",
+                                    "arancel": 3209
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Brenda Casanova",
+                                "arancel": 3066
+                            },
+                            "horas": 18,
+                            "infra": 3087.96,
+                            "descripcion": "Descerebración Fiducia Descervigar Engarzadura Engastar Batayola Descerezar Descerrajadura Fidelidad Batacazo."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Susie Samaniego",
+                                    "arancel": 3870
+                                },
+                                {
+                                    "nombre": "Sam Laureano II",
+                                    "arancel": 2214
+                                },
+                                {
+                                    "nombre": "Edgar Concepción MD",
+                                    "arancel": 2387
+                                },
+                                {
+                                    "nombre": "Earl Ordóñez",
+                                    "arancel": 2286
+                                },
+                                {
+                                    "nombre": "Sta. Claudia Henríquez",
+                                    "arancel": 2425
+                                },
+                                {
+                                    "nombre": "Kevin Flórez",
+                                    "arancel": 1951
+                                },
+                                {
+                                    "nombre": "Andres Alicea",
+                                    "arancel": 2562
+                                },
+                                {
+                                    "nombre": "Lila Vaca II",
+                                    "arancel": 579
+                                },
+                                {
+                                    "nombre": "Preston Crespo",
+                                    "arancel": 3033
+                                },
+                                {
+                                    "nombre": "Lindsay Beltrán",
+                                    "arancel": 1752
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Sta. Ryan Lovato",
+                                "arancel": 1157
+                            },
+                            "horas": 7,
+                            "infra": 4290.25,
+                            "descripcion": "Incorporeidad Incrementar Deschavetarse Fideísmo Cenagoso Incorpóreo Incremento Batanear Gemonias."
+                        },
+                        {
+                            "simple": false,
+                            "tareas": [
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Sta. Jeanette Xicoy",
+                                            "arancel": 529
+                                        },
+                                        {
+                                            "nombre": "Jacob Ayala",
+                                            "arancel": 3672
+                                        },
+                                        {
+                                            "nombre": "Nina Caldera",
+                                            "arancel": 2327
+                                        },
+                                        {
+                                            "nombre": "Joel Canales",
+                                            "arancel": 3936
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "April Kortajarena",
+                                        "arancel": 2666
+                                    },
+                                    "horas": 15,
+                                    "infra": 2480.99,
+                                    "descripcion": "Cenestesia Descentrar Cenaoscuras Batanero Fideicomitente Cencerra Descercado Engarberar Abadiato Descerrajar."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Lola Kortajarena",
+                                            "arancel": 945
+                                        },
+                                        {
+                                            "nombre": "Hector Flores",
+                                            "arancel": 2009
+                                        },
+                                        {
+                                            "nombre": "Tanya Miramontes",
+                                            "arancel": 2447
+                                        },
+                                        {
+                                            "nombre": "Sta. Guillermo Jaramillo",
+                                            "arancel": 3569
+                                        },
+                                        {
+                                            "nombre": "Pearl Villalobos",
+                                            "arancel": 2401
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Joan Nava",
+                                        "arancel": 543
+                                    },
+                                    "horas": 16,
+                                    "infra": 3803.37,
+                                    "descripcion": "Geminación Cendalí Genealogista Incorregible Incorregibilidad Abadernar Incorporar Fidecomiso Incorporar Descentrar."
+                                },
+                                {
+                                    "simple": false,
+                                    "tareas": [
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Kimberly Mayorga",
+                                                    "arancel": 1140
+                                                },
+                                                {
+                                                    "nombre": "Patrick Guardado Dr.",
+                                                    "arancel": 3049
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Clara Cruz MD",
+                                                "arancel": 1385
+                                            },
+                                            "horas": 14,
+                                            "infra": 1240.65,
+                                            "descripcion": "Incristalizable Engastar Increíblemente Batallola Descerebración Fideísmo Incorporeidad Cenca Descifrable."
+                                        },
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Sta. Orville Quintero",
+                                                    "arancel": 1867
+                                                },
+                                                {
+                                                    "nombre": "Brandi Mateo",
+                                                    "arancel": 2933
+                                                },
+                                                {
+                                                    "nombre": "Samuel Tirado",
+                                                    "arancel": 1246
+                                                },
+                                                {
+                                                    "nombre": "Ian Vázquez",
+                                                    "arancel": 1794
+                                                },
+                                                {
+                                                    "nombre": "Sophia Castro",
+                                                    "arancel": 2748
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Lindsey Villaseñor",
+                                                "arancel": 3306
+                                            },
+                                            "horas": 15,
+                                            "infra": 999.41,
+                                            "descripcion": "Cencerrado Batalán Engarzar Fidelísimo."
+                                        },
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Sr. Jody Toledo",
+                                                    "arancel": 1494
+                                                },
+                                                {
+                                                    "nombre": "Gertrude Dávila",
+                                                    "arancel": 3763
+                                                },
+                                                {
+                                                    "nombre": "Carroll Venegas",
+                                                    "arancel": 3151
+                                                },
+                                                {
+                                                    "nombre": "Sra. Derek Angulo",
+                                                    "arancel": 1396
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Alvin Solorzano",
+                                                "arancel": 966
+                                            },
+                                            "horas": 20,
+                                            "infra": 4473.47,
+                                            "descripcion": "Increpar Bastoncillo Cenagoso Fidedigno Incorporalmente Batanga."
+                                        },
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Tim Carranza",
+                                                    "arancel": 1706
+                                                },
+                                                {
+                                                    "nombre": "Abraham Rosas",
+                                                    "arancel": 893
+                                                },
+                                                {
+                                                    "nombre": "Kara Anaya",
+                                                    "arancel": 2232
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Maureen Frías Ing.",
+                                                "arancel": 1995
+                                            },
+                                            "horas": 9,
+                                            "infra": 4765.62,
+                                            "descripcion": "Fideicomitente Incriminar Fideicomitente Batahola Cenefa Engarrafador."
+                                        },
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Sam Serrano",
+                                                    "arancel": 784
+                                                },
+                                                {
+                                                    "nombre": "Courtney Arellano",
+                                                    "arancel": 3972
+                                                },
+                                                {
+                                                    "nombre": "Pauline Holguín DVM",
+                                                    "arancel": 2219
+                                                },
+                                                {
+                                                    "nombre": "Joanne Tejeda DVM",
+                                                    "arancel": 1882
+                                                },
+                                                {
+                                                    "nombre": "Antoinette Olivera",
+                                                    "arancel": 2651
+                                                },
+                                                {
+                                                    "nombre": "Billy Alvarez II",
+                                                    "arancel": 3983
+                                                },
+                                                {
+                                                    "nombre": "Sheldon Concepción",
+                                                    "arancel": 3886
+                                                },
+                                                {
+                                                    "nombre": "Jennifer Mondragón",
+                                                    "arancel": 794
+                                                },
+                                                {
+                                                    "nombre": "Mark Águilar",
+                                                    "arancel": 2574
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Terry Reyna",
+                                                "arancel": 3941
+                                            },
+                                            "horas": 9,
+                                            "infra": 2987,
+                                            "descripcion": "Engarbullar Cenestesia Batallaroso Cencuate Cenefa."
+                                        },
+                                        {
+                                            "simple": true,
+                                            "trabajadores": [
+                                                {
+                                                    "nombre": "Aubrey Barraza",
+                                                    "arancel": 2776
+                                                },
+                                                {
+                                                    "nombre": "Lauren Granados",
+                                                    "arancel": 2431
+                                                },
+                                                {
+                                                    "nombre": "Jeffery Reyna V",
+                                                    "arancel": 1507
+                                                },
+                                                {
+                                                    "nombre": "Sra. Karl Santana",
+                                                    "arancel": 3381
+                                                },
+                                                {
+                                                    "nombre": "Guadalupe Zelaya",
+                                                    "arancel": 2249
+                                                },
+                                                {
+                                                    "nombre": "Sr. Mabel Zayas",
+                                                    "arancel": 2235
+                                                },
+                                                {
+                                                    "nombre": "Chester Rocha",
+                                                    "arancel": 1690
+                                                },
+                                                {
+                                                    "nombre": "Velma Montes",
+                                                    "arancel": 1372
+                                                },
+                                                {
+                                                    "nombre": "Emma Monroy",
+                                                    "arancel": 794
+                                                }
+                                            ],
+                                            "responsable": {
+                                                "nombre": "Bethany Pedraza",
+                                                "arancel": 964
+                                            },
+                                            "horas": 13,
+                                            "infra": 3738.83,
+                                            "descripcion": "Ceneque Engarzar Desciframiento."
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Erin Kanimal",
+                                        "arancel": 2540
+                                    }
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Roy Escobar",
+                                "arancel": 2312
+                            }
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Ronnie Lerma Sr.",
+                        "arancel": 2139
+                    }
+                }
+            ],
+            "responsable": {
+                "nombre": "Stella Salcido",
+                "arancel": 3049
+            }
+        }
+    ]
+}

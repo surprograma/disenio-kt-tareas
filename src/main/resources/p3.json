@@ -1,0 +1,868 @@
+{
+    "titulo": "Abada-Descercar-Cencido",
+    "inicio": "2022-06-22T20:22:01.934Z",
+    "fin_deseado": "2023-04-10T18:35:52.585Z",
+    "tareas": [
+        {
+            "simple": true,
+            "trabajadores": [
+                {
+                    "nombre": "Bethany Borrego",
+                    "arancel": 2125
+                }
+            ],
+            "responsable": {
+                "nombre": "Marcos Arredondo",
+                "arancel": 1124
+            },
+            "horas": 9,
+            "infra": 3167.08,
+            "descripcion": "Engaste Incorrupción Abacial Incordio Batanar Cendrazo Engarzadura Abalanzar Bastonazo Incorrupción."
+        },
+        {
+            "simple": true,
+            "trabajadores": [
+                {
+                    "nombre": "Ismael Sarabia",
+                    "arancel": 3614
+                },
+                {
+                    "nombre": "Erick Caballero",
+                    "arancel": 1242
+                },
+                {
+                    "nombre": "Christy Arguello",
+                    "arancel": 1924
+                },
+                {
+                    "nombre": "Dana Abeyta",
+                    "arancel": 2507
+                }
+            ],
+            "responsable": {
+                "nombre": "Sta. Rex Cazares",
+                "arancel": 3938
+            },
+            "horas": 13,
+            "infra": 3208.64,
+            "descripcion": "Abadengo Genealogista Batallona Fichaje Engaste Incredibilidad Bastonazo Descervigar Cencerrillas."
+        },
+        {
+            "simple": true,
+            "trabajadores": [
+                {
+                    "nombre": "Sarah Alcaraz",
+                    "arancel": 2809
+                },
+                {
+                    "nombre": "Vernon Domínquez",
+                    "arancel": 934
+                },
+                {
+                    "nombre": "Faye Lucero",
+                    "arancel": 3570
+                },
+                {
+                    "nombre": "Santos Zarate",
+                    "arancel": 2709
+                },
+                {
+                    "nombre": "Lana Ferrer",
+                    "arancel": 3108
+                },
+                {
+                    "nombre": "Nichole Nazario",
+                    "arancel": 3639
+                },
+                {
+                    "nombre": "Peggy Molina",
+                    "arancel": 2301
+                },
+                {
+                    "nombre": "Ian Reséndez",
+                    "arancel": 2929
+                },
+                {
+                    "nombre": "Frank Barela",
+                    "arancel": 592
+                },
+                {
+                    "nombre": "Saul Tello",
+                    "arancel": 2866
+                }
+            ],
+            "responsable": {
+                "nombre": "Jake Alicea",
+                "arancel": 3652
+            },
+            "horas": 10,
+            "infra": 520.95,
+            "descripcion": "Cendrado Abadiado Abaco Engastador Generalidad Cenceño Engargantar Batea Descimbramiento Incorporo."
+        },
+        {
+            "simple": false,
+            "tareas": [
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Shawn Pérez",
+                            "arancel": 1500
+                        },
+                        {
+                            "nombre": "Ramiro Bétancourt",
+                            "arancel": 1958
+                        },
+                        {
+                            "nombre": "Jason Abeyta",
+                            "arancel": 701
+                        },
+                        {
+                            "nombre": "April Xana",
+                            "arancel": 2053
+                        },
+                        {
+                            "nombre": "Leticia Crespo",
+                            "arancel": 3349
+                        },
+                        {
+                            "nombre": "Jonathon Velázquez",
+                            "arancel": 2049
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Scott Reyna",
+                        "arancel": 794
+                    },
+                    "horas": 5,
+                    "infra": 2290.63,
+                    "descripcion": "Descerezar Batato Ceneque Fiducia Incorregiblemente."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Clinton Corral PhD",
+                            "arancel": 2165
+                        },
+                        {
+                            "nombre": "Jill Delgado",
+                            "arancel": 2138
+                        },
+                        {
+                            "nombre": "Rogelio Ávila",
+                            "arancel": 1247
+                        },
+                        {
+                            "nombre": "Gustavo Matos",
+                            "arancel": 1531
+                        },
+                        {
+                            "nombre": "Taylor Peres DDS",
+                            "arancel": 3342
+                        },
+                        {
+                            "nombre": "Oliver Molina",
+                            "arancel": 2936
+                        },
+                        {
+                            "nombre": "Doug Benavides MD",
+                            "arancel": 2476
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Ernestine Soliz",
+                        "arancel": 851
+                    },
+                    "horas": 10,
+                    "infra": 2935.11,
+                    "descripcion": "Engarmarse Engastar Increpar."
+                },
+                {
+                    "simple": false,
+                    "tareas": [
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Peggy Tejada",
+                                    "arancel": 3982
+                                },
+                                {
+                                    "nombre": "Dianna Oquendo",
+                                    "arancel": 689
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Kara Madrigal",
+                                "arancel": 2353
+                            },
+                            "horas": 12,
+                            "infra": 4347.38,
+                            "descripcion": "Cencuate Deschuponar Fichar Geminar Generala Descifre Increpar Basurear Incorregiblemente Batallola."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Cora Ríos",
+                                    "arancel": 1760
+                                },
+                                {
+                                    "nombre": "Sr. Brooke Mora",
+                                    "arancel": 3146
+                                },
+                                {
+                                    "nombre": "Sra. Delia Chavarría",
+                                    "arancel": 2840
+                                },
+                                {
+                                    "nombre": "Brandon Becerra",
+                                    "arancel": 2600
+                                },
+                                {
+                                    "nombre": "Victoria Barrera",
+                                    "arancel": 2619
+                                },
+                                {
+                                    "nombre": "Angelica Olivera DVM",
+                                    "arancel": 827
+                                },
+                                {
+                                    "nombre": "Sta. Albert Peralta",
+                                    "arancel": 1621
+                                },
+                                {
+                                    "nombre": "Karla Jiménez III",
+                                    "arancel": 2814
+                                },
+                                {
+                                    "nombre": "Curtis Camacho",
+                                    "arancel": 1100
+                                },
+                                {
+                                    "nombre": "Sr. Dana Gollum",
+                                    "arancel": 2376
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Alyssa Balderas Jr.",
+                                "arancel": 539
+                            },
+                            "horas": 15,
+                            "infra": 2343.87,
+                            "descripcion": "Cencuate Incorrectamente Abadejo Batayola Incriminación Batalán Incredulidad Incorporar Batayola."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Sr. Leland Orellana",
+                                    "arancel": 1689
+                                },
+                                {
+                                    "nombre": "Nina Solís",
+                                    "arancel": 1443
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Luther Mejía",
+                                "arancel": 2101
+                            },
+                            "horas": 13,
+                            "infra": 2551.95,
+                            "descripcion": "Cencido Descifrable Generalísimo Cencapa."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Edward Vargas III",
+                                    "arancel": 3117
+                                },
+                                {
+                                    "nombre": "Denise Valverde",
+                                    "arancel": 1629
+                                },
+                                {
+                                    "nombre": "Toby Carrero",
+                                    "arancel": 679
+                                },
+                                {
+                                    "nombre": "Sta. Clark Molina",
+                                    "arancel": 3457
+                                },
+                                {
+                                    "nombre": "Preston Lucio",
+                                    "arancel": 1741
+                                },
+                                {
+                                    "nombre": "Clyde Marroquín",
+                                    "arancel": 1048
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Terence Sáenz",
+                                "arancel": 1900
+                            },
+                            "horas": 12,
+                            "infra": 4137.23,
+                            "descripcion": "Abadía Incorregibilidad Incorporación Incrédulo Descerebrado."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Fredrick Alemán Jr.",
+                                    "arancel": 2646
+                                },
+                                {
+                                    "nombre": "Hilda Ramón",
+                                    "arancel": 709
+                                },
+                                {
+                                    "nombre": "Willis Ledesma Ing.",
+                                    "arancel": 3979
+                                },
+                                {
+                                    "nombre": "Sherry Pizarro",
+                                    "arancel": 3168
+                                },
+                                {
+                                    "nombre": "Sra. Ana Aponte",
+                                    "arancel": 3591
+                                },
+                                {
+                                    "nombre": "Brendan Kaplan",
+                                    "arancel": 1506
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Nadine Carrasco",
+                                "arancel": 3387
+                            },
+                            "horas": 20,
+                            "infra": 2653.25,
+                            "descripcion": "Bástulo Descimbrar Descervigamiento Engargantadura."
+                        },
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Johnny Cardona",
+                                    "arancel": 2840
+                                },
+                                {
+                                    "nombre": "Emily Ramírez",
+                                    "arancel": 2939
+                                },
+                                {
+                                    "nombre": "Rene Quiñónez",
+                                    "arancel": 609
+                                },
+                                {
+                                    "nombre": "Frank Meza",
+                                    "arancel": 852
+                                },
+                                {
+                                    "nombre": "Tommie Nava",
+                                    "arancel": 3548
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Faye Viera I",
+                                "arancel": 1371
+                            },
+                            "horas": 16,
+                            "infra": 556.26,
+                            "descripcion": "Cenagar Cenco Gemiquear Descepar Incredibilidad Cencuate."
+                        },
+                        {
+                            "simple": false,
+                            "tareas": [
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Hazel Mata",
+                                            "arancel": 3709
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Gary Villa",
+                                        "arancel": 2210
+                                    },
+                                    "horas": 17,
+                                    "infra": 896.67,
+                                    "descripcion": "Batea Engastar Incriminar Batallona Increado Cendra Engaste Gemiquear Abacería."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Elijah Nieves",
+                                            "arancel": 2995
+                                        },
+                                        {
+                                            "nombre": "Ricky Escalante",
+                                            "arancel": 1456
+                                        },
+                                        {
+                                            "nombre": "Theresa Robledo",
+                                            "arancel": 2596
+                                        },
+                                        {
+                                            "nombre": "Dianne Olivo",
+                                            "arancel": 3343
+                                        },
+                                        {
+                                            "nombre": "Harold Zaragoza",
+                                            "arancel": 948
+                                        },
+                                        {
+                                            "nombre": "Marjorie Lucio",
+                                            "arancel": 823
+                                        },
+                                        {
+                                            "nombre": "Lora Vanegas",
+                                            "arancel": 3178
+                                        },
+                                        {
+                                            "nombre": "Judy Vargas",
+                                            "arancel": 2326
+                                        },
+                                        {
+                                            "nombre": "Benjamin Aponte",
+                                            "arancel": 1027
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Mercedes Vaca DVM",
+                                        "arancel": 3264
+                                    },
+                                    "horas": 15,
+                                    "infra": 3337.98,
+                                    "descripcion": "Descerebrado Batanero Cencerril Cenco Cenero Descerrajar Abaco Engarmarse."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Stella Meza",
+                                            "arancel": 1289
+                                        },
+                                        {
+                                            "nombre": "Teri Carrion",
+                                            "arancel": 3220
+                                        },
+                                        {
+                                            "nombre": "Janie Vanegas",
+                                            "arancel": 1790
+                                        },
+                                        {
+                                            "nombre": "Daniel Toledo Dr.",
+                                            "arancel": 2173
+                                        },
+                                        {
+                                            "nombre": "Joshua Prado",
+                                            "arancel": 3004
+                                        },
+                                        {
+                                            "nombre": "Alan Urbina",
+                                            "arancel": 3666
+                                        },
+                                        {
+                                            "nombre": "Mamie Laboy",
+                                            "arancel": 1152
+                                        },
+                                        {
+                                            "nombre": "Anthony Ochoa",
+                                            "arancel": 3819
+                                        },
+                                        {
+                                            "nombre": "Lionel Solorio",
+                                            "arancel": 2163
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Keith Quinta",
+                                        "arancel": 1604
+                                    },
+                                    "horas": 16,
+                                    "infra": 233.23,
+                                    "descripcion": "Bata Engarbullar Batahola Engastador Batanero Genearca Incorporo Gemoso."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Arnold Carranza",
+                                            "arancel": 2991
+                                        },
+                                        {
+                                            "nombre": "Sr. Troy Covarrubias",
+                                            "arancel": 2794
+                                        },
+                                        {
+                                            "nombre": "Nathaniel Sandoval",
+                                            "arancel": 1510
+                                        },
+                                        {
+                                            "nombre": "Myra Kranz sans",
+                                            "arancel": 574
+                                        },
+                                        {
+                                            "nombre": "Lynne Garica",
+                                            "arancel": 3614
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Sta. Howard Verdugo",
+                                        "arancel": 1796
+                                    },
+                                    "horas": 15,
+                                    "infra": 2813.41,
+                                    "descripcion": "Fidelísimo Cenata Cenata Descharchar Engarberar Gemíparo."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Joan Berríos",
+                                            "arancel": 1096
+                                        },
+                                        {
+                                            "nombre": "Luke Carbajal",
+                                            "arancel": 3127
+                                        },
+                                        {
+                                            "nombre": "Guadalupe Palacios",
+                                            "arancel": 2014
+                                        },
+                                        {
+                                            "nombre": "Nathan Vélez",
+                                            "arancel": 1578
+                                        },
+                                        {
+                                            "nombre": "Bryan Tórrez",
+                                            "arancel": 2407
+                                        },
+                                        {
+                                            "nombre": "Eric Quiñones",
+                                            "arancel": 1696
+                                        },
+                                        {
+                                            "nombre": "Sra. Salvador Ceballos",
+                                            "arancel": 3072
+                                        },
+                                        {
+                                            "nombre": "Catherine Valenzuela",
+                                            "arancel": 1055
+                                        },
+                                        {
+                                            "nombre": "Kelley Casares DDS",
+                                            "arancel": 3694
+                                        },
+                                        {
+                                            "nombre": "Jeremiah Cortez",
+                                            "arancel": 1873
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Rogelio Quintero de la cruz",
+                                        "arancel": 2011
+                                    },
+                                    "horas": 14,
+                                    "infra": 1879.86,
+                                    "descripcion": "Increíblemente Engarzadura Descervigar Abalanzar Cencapa Abad Batavia."
+                                },
+                                {
+                                    "simple": true,
+                                    "trabajadores": [
+                                        {
+                                            "nombre": "Tommie Mercado",
+                                            "arancel": 797
+                                        }
+                                    ],
+                                    "responsable": {
+                                        "nombre": "Derek Valdivia",
+                                        "arancel": 3618
+                                    },
+                                    "horas": 5,
+                                    "infra": 1543.31,
+                                    "descripcion": "Engarnio Genealógico Incorpóreo Incredibilidad Deschuponar Engarzadura Incriminar Abacería Descensión."
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Patty Grijalva",
+                                "arancel": 2224
+                            }
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Matt Quinta IV",
+                        "arancel": 1438
+                    }
+                }
+            ],
+            "responsable": {
+                "nombre": "Bradford Olivárez",
+                "arancel": 1681
+            }
+        },
+        {
+            "simple": false,
+            "tareas": [
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Lynda Villalobos",
+                            "arancel": 3505
+                        },
+                        {
+                            "nombre": "Virgil Kyra",
+                            "arancel": 2080
+                        },
+                        {
+                            "nombre": "Cecelia Rangel",
+                            "arancel": 613
+                        },
+                        {
+                            "nombre": "Lisa Gamboa",
+                            "arancel": 2873
+                        },
+                        {
+                            "nombre": "Sr. Jackie Benavides",
+                            "arancel": 3081
+                        },
+                        {
+                            "nombre": "Candice Alonzo",
+                            "arancel": 3928
+                        },
+                        {
+                            "nombre": "Elsa Otero",
+                            "arancel": 3179
+                        },
+                        {
+                            "nombre": "Janie Uribe",
+                            "arancel": 1422
+                        },
+                        {
+                            "nombre": "Olga Arellano",
+                            "arancel": 3499
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Marguerite Roldán",
+                        "arancel": 1035
+                    },
+                    "horas": 5,
+                    "infra": 1008.98,
+                    "descripcion": "Batallar Incorrección Incorregibilidad Fidedigno Genealógico Abajo Cendal Descerrajado Incorrupto Engarfiar."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Warren Cuellar",
+                            "arancel": 3503
+                        },
+                        {
+                            "nombre": "Sta. Kelvin Salcido",
+                            "arancel": 2542
+                        },
+                        {
+                            "nombre": "Earl Franco",
+                            "arancel": 3697
+                        },
+                        {
+                            "nombre": "Ernesto Bétancourt",
+                            "arancel": 897
+                        },
+                        {
+                            "nombre": "Dean Calderón",
+                            "arancel": 3706
+                        },
+                        {
+                            "nombre": "Sra. Stuart Gutiérrez",
+                            "arancel": 3446
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Isaac Arias II",
+                        "arancel": 2311
+                    },
+                    "horas": 17,
+                    "infra": 161.04,
+                    "descripcion": "Batacazo Incredulidad Descerrajadura Incorruptamente."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Kelly Rojo",
+                            "arancel": 3103
+                        },
+                        {
+                            "nombre": "Frank Ocampo",
+                            "arancel": 3436
+                        },
+                        {
+                            "nombre": "Brandi Tirado",
+                            "arancel": 534
+                        },
+                        {
+                            "nombre": "Conrad Zambrano",
+                            "arancel": 1931
+                        },
+                        {
+                            "nombre": "Robyn Corrales Lic.",
+                            "arancel": 549
+                        },
+                        {
+                            "nombre": "Sta. Ebony Rosales",
+                            "arancel": 3410
+                        },
+                        {
+                            "nombre": "Lana Longoria",
+                            "arancel": 2460
+                        },
+                        {
+                            "nombre": "Sadie Fernández",
+                            "arancel": 1949
+                        },
+                        {
+                            "nombre": "Geoffrey León",
+                            "arancel": 1014
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Sabrina Zelaya",
+                        "arancel": 2238
+                    },
+                    "horas": 19,
+                    "infra": 3394.49,
+                    "descripcion": "Increado Incorporeidad Genealogía Cenca Incredulidad Incrustación Incorregible Increpador."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Theodore Juárez",
+                            "arancel": 666
+                        },
+                        {
+                            "nombre": "Emanuel Sevilla",
+                            "arancel": 1790
+                        },
+                        {
+                            "nombre": "Spencer Armijo Jr.",
+                            "arancel": 895
+                        },
+                        {
+                            "nombre": "Arnold Valdez",
+                            "arancel": 3061
+                        },
+                        {
+                            "nombre": "Dallas Pedroza",
+                            "arancel": 2029
+                        },
+                        {
+                            "nombre": "Milton Gracia",
+                            "arancel": 2500
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Antoinette Arenas",
+                        "arancel": 877
+                    },
+                    "horas": 15,
+                    "infra": 154.29,
+                    "descripcion": "Gemológico Engarrafar Descercar."
+                },
+                {
+                    "simple": true,
+                    "trabajadores": [
+                        {
+                            "nombre": "Beth Colunga",
+                            "arancel": 936
+                        },
+                        {
+                            "nombre": "Cody Arteaga",
+                            "arancel": 1700
+                        },
+                        {
+                            "nombre": "Clayton Dueñas V",
+                            "arancel": 650
+                        },
+                        {
+                            "nombre": "Ernest Zavala",
+                            "arancel": 2964
+                        },
+                        {
+                            "nombre": "Gail Almaraz",
+                            "arancel": 1926
+                        },
+                        {
+                            "nombre": "Loretta Orozco",
+                            "arancel": 540
+                        },
+                        {
+                            "nombre": "Sr. Louis Amaya",
+                            "arancel": 1082
+                        },
+                        {
+                            "nombre": "Jon Carranza",
+                            "arancel": 2887
+                        },
+                        {
+                            "nombre": "Jaime Almanza",
+                            "arancel": 3880
+                        },
+                        {
+                            "nombre": "Alberta Zayas",
+                            "arancel": 1008
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Sra. Ismael Granados",
+                        "arancel": 2041
+                    },
+                    "horas": 15,
+                    "infra": 3656.46,
+                    "descripcion": "Batalloso Incorruptibilidad Generalato Incrasar Increado Descharchar Engarbullar Engastadura Incrasar Engastador."
+                },
+                {
+                    "simple": false,
+                    "tareas": [
+                        {
+                            "simple": true,
+                            "trabajadores": [
+                                {
+                                    "nombre": "Sta. Wade Tello",
+                                    "arancel": 1219
+                                }
+                            ],
+                            "responsable": {
+                                "nombre": "Irma Kamal",
+                                "arancel": 1005
+                            },
+                            "horas": 9,
+                            "infra": 1883.5,
+                            "descripcion": "Abadiato Descercado Abaldonadamente Engarfiar Incorporo Descepar Gemológico Cencivera Incorporar."
+                        }
+                    ],
+                    "responsable": {
+                        "nombre": "Ralph Duarte",
+                        "arancel": 1838
+                    }
+                }
+            ],
+            "responsable": {
+                "nombre": "Sophie Santana",
+                "arancel": 1164
+            }
+        }
+    ]
+}
