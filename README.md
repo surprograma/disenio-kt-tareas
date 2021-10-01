@@ -110,7 +110,7 @@ Lo que se pide en esta etapa es:
 
 ### Etapa 3 - Usando la aplicación
 
-Llegó el momento de realmente conectar a nuestro programa con el mundo real, permitiendo que "cualquier persona" (que tenga una computadora, NodeJS y los conocimientos necesarios para ejecutarlo) pueda utilizarlo.
+Llegó el momento de realmente conectar a nuestro programa con el mundo real, permitiendo que "cualquier persona" (que tenga una computadora, Kotlin y los conocimientos necesarios para ejecutarlo) pueda utilizarlo.
 
 Para ello, vamos a programar una pequeña CLI, _command line interface_ o _interfaz por línea de comandos_, que nos permita visualizar los requerimientos de las dos primeras etapas, trayendo la información de los archivos JSON.
 
