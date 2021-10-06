@@ -16,7 +16,7 @@ object Programa {
   var entradaSalida = Consola
 
   fun iniciar() {
-    entradaSalida.escribirLinea("\uD83D\uDC4B ¡Hola mundo!")
+    entradaSalida.escribirLinea("\uD83C\uDF0E ¡Hola mundo!")
     entradaSalida.escribirLinea("\uD83D\uDC4B ¿Cuál es tu nombre?")
     val nombre = entradaSalida.leerLinea()
 
