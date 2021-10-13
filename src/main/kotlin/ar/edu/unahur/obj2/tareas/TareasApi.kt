@@ -1,4 +1,7 @@
 import com.beust.klaxon.Klaxon
+import com.beust.klaxon.TypeAdapter
+import com.beust.klaxon.TypeFor
+import kotlin.reflect.KClass
 
 data class ProyectoJson(
   val titulo: String,
@@ -7,18 +10,26 @@ data class ProyectoJson(
   val tareas: List<TareaJson>
 )
 
-open class TareaJson(val simple: Boolean)
+@TypeFor(field = "simple", adapter = TareaJsonAdapter::class)
+open class TareaJson(
+  val simple: Boolean
+)
+
+class TareaJsonAdapter: TypeAdapter<TareaJson> {
+  override fun classFor(type: Any): KClass<out TareaJson> =
+    if (type as Boolean) { TareaSimpleJson::class } else { TareaIntegracionJson::class }
+}
 
 data class TareaSimpleJson(
-  val trabajadores: List<TrabajadorJson>,
+  val trabajadores: List<TrabajadorJson>?,
   val responsable: TrabajadorJson,
-  val horas: Int,
-  val infra: Int,
+  val horas: Int?,
+  val infra: Double?,
   val descripcion: String
 ) : TareaJson(true)
 
 data class TareaIntegracionJson(
-  val tareas: List<TareaJson>,
+  val tareas: List<TareaJson>?,
   val responsable: TrabajadorJson
 ) : TareaJson(false)
 
