@@ -16,7 +16,7 @@ Una consultora de software necesita implementar un sistema para hacer el seguimi
 
 ### Tareas simples
 
-Cada tarea simple tiene una cantidad de **horas estimadas** para ser terminada, algunos **trabajadores** asignados y un **responsable** - que no es más que un trabajador que asume ese rol particular para esa tarea (podría ocurrir perfectamente que sea trabajador en otra tarea). De cada trabajador se conoce **cuánto cobra por hora** trabajada. Las **horas necesarias** para finalizar una tarea son las horas estimadas que requiere divido la cantidad de trabajadores que tiene asignados (sin contar al responsable de la misma, que no aporta nada para reducir este número).
+Cada tarea simple tiene una cantidad de **horas estimadas** para ser terminada, algunos **trabajadores** asignados y un **responsable** - que no es más que un trabajador que asume ese rol particular para esa tarea (podría ocurrir perfectamente que sea trabajador en otra tarea). De cada trabajador se conoce **cuánto cobra por hora** trabajada. Las **horas necesarias** para finalizar una tarea son las horas estimadas que requiere dividido la cantidad de trabajadores que tiene asignados (sin contar al responsable de la misma, que no aporta nada para reducir este número).
 
 El costo de una tarea simple es el **costo de la infraestructura** necesaria para llevarla a cabo (que se configura para cada tarea) más los salarios que les corresponden a cada uno de los trabajadores asignados por cada hora que tuvieron que trabajar. Al responsable se le paga la totalidad de las horas estimadas de la tarea.
 
